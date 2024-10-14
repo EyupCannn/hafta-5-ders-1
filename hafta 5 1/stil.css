@@ -1,0 +1,37 @@
+body{background-color: white;}
+a{text-decoration: none; 
+color: red;
+font-size: 3vh;
+border: 1px solid navy;
+width: 15vw;
+height: 6vh;
+
+text-align: center;
+}
+.kapsa{display: flex;
+justify-content: space-around;
+}
+
+a:hover{background-color: orange;}
+.k1{width: 30vw;
+border: 1px solid navy;
+}
+.k1 img{ width: 30vh;
+height: 20vh;
+}
+.k1 :hover{background-color: black;}
+
+.k2 img{width: 30vh;
+height: 20vh;
+}
+.k2{
+    margin-bottom: 10px;
+    width: 30vw;
+border: 1px solid navy;
+}
+.kapsa2{display: flex;
+    justify-content: space-around;}
+
+.kapsa3{display: flex;
+    justify-content: space-around;}
+.k2 :hover{background-color: black;}
